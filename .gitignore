@@ -1,0 +1,11 @@
+# Ignore audio and video files
+*.mp4
+*.wav
+*.mp3
+
+# Ignore virtual environment
+venv/
+.venv/
+
+# Ignore macOS system files
+.DS_Store
