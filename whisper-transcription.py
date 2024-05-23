@@ -5,7 +5,7 @@ from pydub import AudioSegment
 import time
 
 # Replace this with the actual path to your video file
-video_path = "/Users/j0v3l/Documents/cs/projects/intro/firesidechat-naval-vitalia.mp4"
+video_path = ""
 audio_path = "audio.mp3"
 transcript_path = "transcript.md"
 
